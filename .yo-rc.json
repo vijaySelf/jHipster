@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sapient.jhipster"
+    },
+    "jhipsterVersion": "6.5.0",
+    "applicationType": "microservice",
+    "baseName": "testJhipster",
+    "packageName": "com.sapient.jhipster",
+    "packageFolder": "com/sapient/jhipster",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmI1YjZjOGEzYmI1YWM4YWY4ZTAxMzcyYzY3YzAzMWE0Zjk1Y2EwOGM5OTAwZWVkYjdmY2M4Y2IyYTg4YzE0MDJhYzczNGI5ZWFjN2NlMzBhZDg2OTE3ZTJlOTFhZTBmMjA0YTgxZjFjZDNjNWQ4MjkwMmMzODY4Yjg0YjhjZjU=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
